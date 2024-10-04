@@ -1,0 +1,440 @@
+Ep 01: Michael Shellenberger - President, Environmental Progress
+Ep 02: Per Peterson - Chief Nuclear Officer, Kairos Power
+Ep 03: Todd Allen - Professor, University of Wisconsin
+Ep 04: Eric Loewen - Scientist, GE-Hitachi Nuclear Energy
+Ep 05: Rachel Slaybaugh - Program Director, ARPA-E
+Ep 06: John Wagner - Nuclear Science & Technology, Idaho National Labs
+Ep 07: Hans Gougar - Advanced Reactors, Idaho National Labs
+Ep 08: Shannon Bragg-Sitton - Space Nuclear Systems, Idaho National Labs
+Ep 09: George Griffith - Small Modular Reactors, Idaho National Labs
+Ep 10: Emma Redfoot - Fellow, Idaho National Labs
+Ep 11: Jessica Lovering - Director of Energy, Breakthrough Institute
+Ep 12: Jeff Harper - Vice President of Strategy, X-Energy
+Ep 13: John Kotek - Vice President, Policy, Nuclear Energy Institute
+Ep 14: Mark Peters - Laboratory Director, Idaho National Labs
+Ep 15: Richard Powell - Executive Director, Clearpath
+Ep 16: Don Wolf - Chief Executive Officer, Advanced Reactor Concepts
+Ep 17: Rita Baranwal - Director, GAIN Program
+Ep 18: Josh Freed - Vice-President, Clean Energy, Third Way
+Ep 19: Amy Roma - Lawyer, Hogan Lovells
+Ep 20: Jim Conca - Writer, Forbes
+Ep 21: Bill Stokes - President, Columbia Basin (Advanced Reactor Consulting)
+Ep 22: Edward McGinnis - Assistant Secretary of Energy, Department Of Energy
+Ep 23: Steve Unwin - Nuclear Sector Manager, Pacific Northwest National Laboratory
+Ep 24: Tara O'Niel - Environmental Assessment, Pacific Northwest National Laboratory
+Ep 25: Brady Hanson - Used Fuel Expert, Pacific Northwest National Laboratory
+Ep 26: Ron Omberg - Fast Reactor Expert, Pacific Northwest National Laboratory
+Ep 27: Peter Lyons - Fmr. Commissioner, Nuclear Regulatory Commission
+Ep 28: Jose Reyes - Chief Technical Officer, NuScale Power
+Ep 29: Tom Bergman - Vice President, Regulatory Affairs, NuScale Power
+Ep 30: Tom Mundy - Chief Commercial Officer, NuScale Power
+Ep 31: Lenka Kollar - Director of Business Strategy, NuScale Power
+Ep 32: John L Hopkins - Chief Executive Officer, NuScale Power
+Ep 33: Chad Painter - Technical Advisor - National Nuclear Security Administration
+Ep 34: Ken Canavan - Chief Technical Officer, Westinghouse
+Ep 35: Spencer Weart - Author, The Rise of Nuclear Fear
+Ep 36: John Stevens - Reactor Materials, Argonne National Lab
+Ep 37: Chris Grandy - Nuclear Experimental Facilities, Argonne National Lab
+Ep 38: Hussein Khalil - Nuclear Energy R&D, Argonne National Lab
+Ep 39: Tom Fanning - Advanced Reactor Modeling, Argonne National Lab
+Ep 40: Amanda Youker - Isotope Production, Argonne National Lab
+Ep 41: Ken Luongo - President, Partnership for Global Security
+Ep 42: Laura Holgate - Former Ambassador, International Atomic Energy Agency
+Ep 43: Paul Murphy - Managing Director / Lawyer, Gowling WLG
+Ep 44: Yves Desbazeille - Director General, Foratom
+Ep 45: Steven Goldfarb - Atlas Experiment (Large Hadron Collider), CERN
+Ep 46: Giovanni Porcellana - Technology Transfer, CERN
+Ep 47: Michael Doser - Aegis Experiment (Antimatter), CERN
+Ep 48: Toni Hemminki - Chief Executive Officer, Fennovoima
+Ep 49: Atte Harjanne - Green Politician, Helsinki
+Ep 50: Ville Tulkki - Senior Researcher, VTT Technical Research Centre of Finland
+Ep 51: Rauli Partanen - Author / Activist, Climate Gamble
+Ep 52: Wade Karlsen - Laboratory Manager, VTT Technical Research Centre of Finland
+Ep 53: Mathijs Beckers - Author, Climate Zero Hour (Netherlands)
+Ep 54: Troels Schönfeldt - Chief Executive Officer, Seaborg
+Ep 55: Geoffrey Rothwell - Author / Economist, Economics of Nuclear Power
+Ep 56: Luc Van Den Durpel - Managing Director, Nuclear-21
+Ep 57: Fiona Rayment - Director, National Nuclear Laboratory - UK
+Ep 58: Valerie Faudon - Executive Director, French Nuclear Society
+Ep 59: Bernard Bigot - Director-General, Intl. Thermonuclear Experimental Reactor
+Ep 60: Malcolm Grimston - Professor / Author, Imperial College of London
+Ep 61: David Shropshire - Section Head: Planning & Economic Studies, IAEA
+Ep 62: Milko Kovachev - Section Head: Nuclear Infrastructure Development, IAEA
+Ep 63: Bill Magwood - Director‑General, Nuclear Energy Agency (OECD)
+Ep 64: Andrew Storer - CEO, Nuclear Advanced Manufacturing Research Center
+Ep 65: Jay Shaw - Program Director, Nuclear Adv. Manufacturing Research Center
+Ep 66: Charles Carpenter - Senior Technology Officer, Nuclear Advanced Manufacturing Research Center
+Ep 67: Kirsty Gogan - Environmental Activist, Energy for Humanity
+Ep 68: Dame Sue Ion - Fmr. Technical Director , British Nuclear Fuels
+Ep 69: Alastair Laird - President, European Nuclear Society
+Ep 70: Ian Scott - Co-Founder, CTO, Moltex Energy
+Ep 71: Paul Howarth - Chief Executive Officer, National Nuclear Laboratory - UK
+Ep 72: David Blee - President, US Nuclear Industry Council
+Ep 73: Kemal Pasamehmetoglu - Dir. of Versatile Test Reactor, Idaho National Labs
+Ep 74: Richard Barrett - Fmr. Senior Executive , Nuclear Regulatory Commission
+Ep 75: Gene Grecheck - Fmr. Senior Vice President, Dominion Energy
+Ep 76: Eric Ingersoll - Co-founder, Energy Options Network
+Ep 77: Neil Wilmshurst - Chief Nuclear Officer, Electric Power Research Institute
+Ep 78: Dan Wells - Water Chemistry Expert, Electric Power Research Institute
+Ep 79: Rob Austin - Sensors, Data & Analytics Expert, EPRI
+Ep 80: David Gandy - Advanced Manufacturing Expert, EPRI
+Ep 81: Andrew Sowder - Advanced Nuclear Technology , EPRI
+Ep 82: Aladar Csontos - Advanced Fuels Expert , EPRI
+Ep 83: Tina Taylor - Deputy Chief Nuclear Officer, EPRI
+Ep 85: Anurag Gupta - Partner, Global Lead for Power - Infrastructure, KPMG
+Ep 86: Milton Caplan - Consultant, MZConsulting
+Ep 87: Margaret Harding - Consultant, 4Factor Consulting
+Ep 88: Andrew Daniels - Author, After Fukushima
+Ep 89: Jeff Merrifield - Former Commissioner, Nuclear Regulatory Commission
+Ep 90: Bob Coward - Principal Officer, MPR Associates
+Ep 91: Paul Gunter - Director, Reactor Oversight Project, Beyond Nuclear
+Ep 92: Umair Irfan - Reporter, Vox
+Ep 93: Joyce Connery - Board Member, Defense Nuclear Facilities Safety Board
+Ep 94: Ron Faibish - Director of Business Development, General Atomic
+Ep 95: Kam Ghaffarian - Founder, Chief Executive Officer, X-Energy
+Ep 96: Bob Freeman - SVP Nuclear Fuel Commercial Operations, Framatome (US)
+Ep 97: Craig Ranson - Senior Vice President, Installed Base America, Framatome (US)
+Ep 98: Curtis Van Cleve - Vice Pres., Components, Repair and Replacement, Framatome (US)
+Ep 99: Gary Mignogna - Chief Executive Officer & President, Framatome (US)
+Ep 100: Bret Kugelmass - Managing Director, Energy Impact Center
+Ep 101: Mark Flaherty - Site Vice President, Calvert Cliffs Nuclear Plant
+Ep 102: Kevin Dougherty - Operations Shift Manager, Calvert Cliffs Nuclear Plant
+Ep 103: Nicholas Cahill - Reactor Engineer, Calvert Cliffs Nuclear Plant
+Ep 105: Dean Divittore - Radiation Protection Manager, Calvert Cliffs Nuclear Plant
+Ep 106: Larry Smith - Manager, Regulatory Assurance, Calvert Cliffs Nuclear Plant
+Ep 107: Alan Icenhour - Associate Laboratory Director, Nuclear Science and Engineering, ORNL
+Ep 108: Phil Ferguson - Director of Fusion and Materials for Nuclear Systems, ORNL
+Ep 109: Kurt Terrani - Nuclear Fuel Materials, ORNL
+Ep 110: Lou Qualls - Molten Salt Reactors, Technical Director, ORNL
+Ep 111: David Kropaczek - Consortium for Advanced Simulation of LWRs, ORNL
+Ep 112: Thomas Graham - Fmr. Ambassador, US Arms Control and Disarmament Agency
+Ep 113: Seth Grae - Chief Executive Officer, LightBridge
+Ep 114: Jarret Adams - Founder, Full On Communications
+Ep 115: Ed Pheil - Chief Technology Officer, Elysium
+Ep 116: Janice Dunn Lee - Former Deputy Director General, IAEA
+Ep 117: Kathryn McCarthy - VP, Research & Dev., Canadian Nuclear Laboratories
+Ep 118: Corey McDaniel - VP, Business Development, Canadian Nuclear Laboratories
+Ep 119: Metin Yetisir - Concept and Technology Dev., Canadian Nuclear Laboratories
+Ep 120: Rosaura Ham-Su - Fuel Development, Canadian Nuclear Laboratories
+Ep 121: Mark Lesinski - Chief Executive Officer, Canadian Nuclear Laboratories
+Ep 122: Jacopo Buongiorno - Associate Head, Nuclear Science, MIT
+Ep 123: Dennis Whyte - Head of Nuclear Department, MIT
+Ep 124: Bob Mumgaard - Chief Executive Officer, Commonwealth Fusion
+Ep 125: Mark Lewis - President, Chief Business Officer, Tri-Alpha Energy
+Ep 126: Stephen Burns - Commissioner, Nuclear Regulatory Commission
+Ep 127: Philip Sharp - Former Congressman, United States Congress
+Ep 128: Susan Eisenhower - CEO and Chairman, The Eisenhower Group
+Ep 129: Rex Geveden - Chief Executive Officer, BWX Technologies
+Ep 130: Eddie Guerra - Senior Structural Engineer, Arup
+Ep 131: Joshua Goldstein - Author, A Bright Future
+Ep 132: Steven Freel - Chief Executive Officer, Studsvik Scandpower
+Ep 133: James Duderstadt - President Emeritus, University of Michigan
+Ep 134: Alec Thomas - Associate Professor, University of Michigan
+Ep 135: Sara Pozzi - Professor, University of Michigan
+Ep 136: Zhong He - Professor, University of Michigan
+Ep 137: John Barrett - Chief Executive Officer, Canadian Nuclear Association
+Ep 138: Colleen DeMerchant - General Mgr., Nuclear Insurance Association of Canada
+Ep 139: Matthew Mairinger - Canadian Affairs Chair, NAYGN
+Ep 140: Howard Shearer - Chief Executive Officer, Hitachi Canada
+Ep 141: Doug Jensen - General Manager, Cameco Corporation
+Ep 142: Sean Donnelly - Team Lead, UBattery
+Ep 143: Paula Maguire - Former Training Manager, Ontario Power Generation
+Ep 144: Bill Fox - Executive Vice President, SNC-Lavalin
+Ep 145: Katy Huff - Assistant Professor, Nuclear Engineering, University of Illinois
+Ep 146: Tomasz Kozlowski - Associate Prof., Nuclear Engineering, University of Illinois
+Ep 147: James Stubbins - Professor, Nuclear Engineering, University of Illinois
+Ep 148: Neal Cohen - Senior Vice President, Nuclear Energy Institute
+Ep 149: Michael Reichenberger - Technical Lead, Radiation Measurements Lab, INL
+Ep 150: Gerry Thomas - Chair, Dept. of Surgery & Cancer, Imperial College London
+Ep 151: KunMo Chung - Professor, Korea Advanced Institute of Science and Technology
+Ep 152: Bryan Hanson - Chief Nuclear Officer, Exelon Generation
+Ep 153: Marilyn Kray - Vice President, Nuclear Tech. & Strategy, Exelon Generation
+Ep 154: Michael Gallagher - Vice President, License Renewal, Exelon Generation
+Ep 155: Mara Levy - Reactor Engineer, Exelon Generation
+Ep 156: Brad Fewell - General Counsel , Exelon Generation
+Ep 157: Kathleen Barron - Senior Vice President, Government and Regulatory Affairs , Exelon Generation
+Ep 158: Susan Landahl - Senior Vice President, Exelon Generation
+Ep 159: Shane Johnson - Deputy Assistant Secretary, Reactor Fleet and Advanced Reactor Deployment, DOE
+Ep 160: Eben Mulder - Senior Vice-President & Chief Nuclear Officer, X Energy
+Ep 161: Evan Sengbusch - President, Phoenix
+Ep 162: Jackie Kempfer - Policy Advisor, Third Way
+Ep 163: Akira Tokuhiro - Dean, Energy Systems and Nuclear Science, Ontario Tech University
+Ep 164: Marc Nichol - Director, New Reactor Deployment, Nuclear Energy Institute
+Ep 165: Margie Doane - Executive Director, Operations, NRC
+Ep 166: Bob Walker - Former President & CEO, Canadian Nuclear Laboratories
+Ep 167: Jeff Navin - Co-Founder & Partner, Boundary Stone Partners
+Ep 168: Dr. Bob Ichord - Nonresident Senior Fellow, Global Energy Center, Atlantic Council
+Ep 169: Juan EibenSchutz Hartman - Director General, Mexico's National Nuclear Safety and Safeguards Commission
+Ep 170: Bill Foster - United States Representative, US Congress
+Ep 171: Seth Moulton - United States Representative, US Congress
+Ep 172: William Ostendorff - Former Commissioner, Nuclear Regulatory Commission
+Ep 173: Ralph Izzo - President & CEO, Public Service Enterprise Group
+Ep 174: Finis Southworth - Former Chief Technology Officer, Areva
+Ep 175: Joseph Hezir - Managing Principal, Energy Futures Initiative
+Ep 176: Daniel Poneman - Former Deputy Secretary of Energy, U.S. DOE
+Ep 177: George Apostolakis - Former Commissioner, U.S. NRC
+Ep 178: Jon Ball - Executive Vice Pres., Nuclear Plant Projects, GE Hitachi Nuclear Energy
+Ep 179: Mona Badie - Chief Digital Officer, GE Hitachi Nuclear Energy
+Ep 180: Glen Watford - Chief Engineer, GE Hitachi Nuclear Energy
+Ep 181: Emily Martin - Chief Commercial Officer, GE Hitachi Nuclear Energy
+Ep 182: Christer Dahlgren - Principal Engineer, GE Hitachi Nuclear Energy
+Ep 183: Catherine Cottrell - Senior Director, Product Development, SNC-Lavalin
+Ep 184: Robert Mallozzi - Regional Technology Director, SNC-Lavalin
+Ep 185: Ruben Oris - Vice-President, Nuclear Steam Plant Engineering, SNC-Lavalin
+Ep 186: Tim Freeman - Project Director, Embalse Life Extension, SNC-Lavalin
+Ep 187: Ho Nieh - Director, New Reactor Regulation, Nuclear Regulatory Commission
+Ep 188: Bernard Blanc - Business Development Manager, Assystem
+Ep 189: Tom Jones - Vice President, International Business Development, Assystem
+Ep 190: Robert Plana - Chief Technology Officer, Assystem
+Ep 191: Jean Louis Ricaud - Senior Advisor, Assystem
+Ep 192: Stephane Aubarbier - COO & CEO, Assystem
+Ep 193: Chuck Casto - Author, Station Blackout
+Ep 194: Edward Calabrese - Toxicologist, University of Massachusetts - Amherst
+Ep 195: Jeremy Renshaw - Program Manager, Used Fuel and High-Level Waste, EPRI
+Ep 196: Rose Boll - Group Leader, Medical, Industrial, & Research Isotopes, ORNL
+Ep 197: Bruce McDowell - Senior Project Manager, Advanced Reactor Program, PNNL
+Ep 198: Reuben Holmes - Nuclear Plant Chemist, National Nuclear Laboratory
+Ep 199: Federico Puente - Intl. Nuclear Expert and Professor, Tecnológico de Monterrey
+Ep 200: Naomi Senehi - Media Operations Manager , Energy Impact Center
+Ep 201: Zabrina Johal - Director of Business Development, General Atomics
+Ep 202: Ben Heard - Founder, Executive Director, Bright New World
+Ep 203: Wade Allison - Emeritus Professor, Physics, Oxford University
+Ep 204: Tom Evans - Distinguished Research & Development Staff, ORNL
+Ep 205: Tim Stone - Chairman, Nuclear Industry Association
+Ep 206: Koroush Shirvan - Assistant Professor, Massachusetts Institute of Technology
+Ep 207: Neil Alexander - Principal Consultant , Bucephalus Consulting
+Ep 208: Rod Adams - Publisher, Atomic Insights
+Ep 209: Ed Kee - CEO and Principal Consultant, Nuclear Economics Consulting Group
+Ep 210: Helen Cook - Principal, Global Nuclear Energy Advisory
+Ep 211: Mark Ho - President, Australian Nuclear Association Inc
+Ep 212: Doug Witherspoon - CEO & Chief Scientist , HyperJet Fusion Corporation
+Ep 213: Tomaž Žagar - President, Nuclear Society of Slovenia
+Ep 214: Andrej Stritar - Director, Slovenian Nuclear Safety Administration
+Ep 215: Walter Tromm - Head of Waste Management, Safety, and Radiation Research, Karlsruhe Institute of Technology
+Ep 216: Leon Cizelj - Head, Nuclear Engineering Department, Jožef Stefan Institute, Reactor Engineering Division
+Ep 217: Rumina Velshi - President & CEO, Canadian Nuclear Safety Commission
+Ep 218: Peter Elder - Vice-President & CSO, Canadian Nuclear Safety Commission
+Ep 219: Ramzi Jammal - Executive Vice-President & Chief Regulatory Operations Officer, Canadian Nuclear Safety Commission
+Ep 220: Michael Binder - Former CEO, Canadian Nuclear Safety Commission
+Ep 221: James Miller - Professor of Mechanical and Nuclear Engineering, VCU
+Ep 222: Braden Goddard - Assistant Professor of Mechanical and Nuclear Engineering, VCU
+Ep 223: Lane Carasik - Assistant Professor of Mechanical and Nuclear Engineering, VCU
+Ep 224: Juan Vitali - Strategist, US Army
+Ep 225: Jason Harris - Professor, Health Physics, Purdue University
+Ep 226: Allen Garner - Prof., Agricultural and Biological Engineering, Purdue University
+Ep 227: Robert Bean - Professor, Nuclear Engineering, Purdue University
+Ep 228: Janelle Wharry - Professor, Nuclear Engineering, Purdue University
+Ep 229: Kostadin Ivanov - Professor and Department Head of Nuclear Engineering, North Carolina State University
+Ep 230: Yousry Azmy - Director, Consortium for Nonproliferation Enabling Capabilities, North Carolina State University
+Ep 231: Steve Shannon - Professor, Nuclear Engineering, North Carolina State University
+Ep 232: Ayman Hawari - Director, PULSTAR reactor, North Carolina State University
+Ep 233: Jacob Eapen - Associate Professor of Nuclear Engineering, North Carolina State University
+Ep 234: Mohamed Bourham - Alumni Distinguished Graduate Professor of Nuclear Engineering, Director of College of Engineering Master of Engineering Program, North Carolina State University
+Ep 235: Nam Dinh - Professor of Nuclear Engineering, Joint Faculty Appointment with ORNL, North Carolina State University
+Ep 236: Mike Crapo - Senator for Idaho, U.S. Senate
+Ep 237: Stefano Monti - Head, Nuclear Power Technology Development, IAEA
+Ep 238: Kalev Kallemets - Chief Executive Officer, Fermi Energia
+Ep 239: Bianca Carpinelli - Undersecretariat of Nuclear Energy, Argentine Republic
+Ep 240: Marcel Biato - Permanent Representative of Brazil, IAEA
+Ep 241: Leonam Guimarães - CEO , Eletronuclear
+Ep 242: Carlos Freire Moreira - CEO , Industrias Nucleares do Brasil (INB)
+Ep 243: Celso Cunha - President, Brazilian Association of Nuclear Energy (ABEN)
+Ep 244: Claudio Almeida - President, Brazilian Association of Nuclear Energy (ABEN)
+Ep 245: Alice Cunha da Silva - Nuclear Engineer & Chair of INAC 2019, Brazilian Association of Nuclear Energy (ABEN)
+Ep 246: Julia Pyke - Director of Financing for Sizewell C, EDF Energy
+Ep 247: Giorgio Locatelli - Economics and Strategy for SMRs, University of Leeds
+Ep 248: Sainati Tristano - Lecturer in Project Management, University of Leeds
+Ep 249: Adrienne Kelbie - Chief Executive, Office for Nuclear Regulation
+Ep 250: Andrew Sherry - Chief Scientist, National Nuclear Laboratory
+Ep 251: Julian Gadano - Deputy Secretary of Nuclear Energy, Nuclear Energy for Argentina
+Ep 252: Scott Hsu - Program Director, ARPA-E, Department of Energy
+Ep 253: Clinton Carter - Director, Fleet Modernization, Luminant
+Ep 254: Katie Tubb - Senior Policy Analyst, Heritage Foundation
+Ep 255: John Ahlberg - Co-Founder, Kärnfull Energi
+Ep 256: Edouard Hourcade - Group Manager, Jules Horowitz Experimental Reactor
+Ep 257: Steve Nesbit - Former Director Nuclear Policy and Support, Duke Energy
+Ep 258: Suzanne Jaworowski - Chief of Staff, Senior Advisor - Nuclear Energy, US DOE
+Ep 259: Leslie Compton Kass - Senior Vice President, Technical Center, TC Energy
+Ep 260: Canon Bryan - CFO, Terrestrial Energy (CAN)
+Ep 261: Janne Wallenius - Chief Executive Officer, LeadCold Reactors
+Ep 262: Hee Yong Lee - Former Executive VP, Korea Electric Power Corporation
+Ep 263: Paul Dickman - Senior Policy Fellow, Argonne National Laboratory
+Ep 264: Elizabeth Muller - Co-Founder and CEO, Deep Isolation
+Ep 265: Craig Piercy - CEO, American Nuclear Society
+Ep 266: Wacław Gudowski - Prof. Emeritus, Royal Institute of Technology KTH Stockholm
+Ep 267: Donald Carlson - Retired Nuclear Engineer, IAEA
+Ep 268: David Otwoma - Chief Scientist, National Commission for Science Technology & Innovation
+Ep 269: Roger Howsley - Executive Director , World Institute for Nuclear Security
+Ep 270: Chris Colbert - Chief Strategy Officer, NuScale Power
+Ep 271: Rich Deakin - Director, Low Cost Nuclear Challenge, UKRI
+Ep 272: Nathan Paterson - Sr Technology Advisor, Foratom
+Ep 273: Javier Guerra - Director General , Tecnatom
+Ep 274: David Poston - Chief Reactor Designer Kilopower Project, NASA
+Ep 275: Amir Vexler - President, Orano TN
+Ep 276: Gabriele Voigt - President, Women in Nuclear Global
+Ep 277: Anton Simeonov - Head of Power Projects, Bulgarian Energy Holding EAD
+Ep 278: John Lindberg - Public Affairs Manager, World Nuclear Association
+Ep 279: Lee Causey - President, North American Young Generation in Nuclear
+Ep 280: J'Tia Hart - Program Lead, Argonne National Laboratory
+Ep 281: Greg Cameron - Director, Communications & External Affairs, Palo Verde Generating Station
+Ep 282: Seth Kofi Debrah - Senior Research Scientific Officer, Ghana Atomic Energy Commission
+Ep 283: Roy Payne - Executive Director , GDFWatch
+Ep 284: Ed Lyman - Director, Nuclear Power Safety, Union of Concerned Scientists
+Ep 285: Theo Nii Okai - Fmr Executive Director, Nuclear Power Ghana
+Ep 298: Alan Woods - Rolls Royce
+Ep 299: Björn Peters - Peters Coll.
+Ep 300: Michelle Brechtelsbauer - Director of Stakeholder Relations, Energy Impact Center
+Ep 301: Brett Rampal - Director of Nuclear Innovation, Clean Air Task Force
+Ep 302: Dan Stout - Director, Nuclear Technology Innovation, Tennessee Valley Authority
+Ep 303: Lars Roobol - Head of Measurement and Monitoring Department, RIVM
+Ep 304: Mary Lou Dunzik-Gougar - President, American Nuclear Society
+Ep 305: Bismark Tyobeka - Chief Executive Officer, National Nuclear Regulator
+Ep 306: Zion Lights - Founder, Emergency Reactor
+Ep 307: Sama Bilbao y León - Director General, World Nuclear Association
+Ep 308: Steven Arndt - Distinguished Scientist, Oak Ridge National Laboratory
+Ep 309: Anicet Touré - Product Manager SMRs and Advanced Technologies, Tractebel Engie
+Ep 310: Rickey Ruff - Managing Director, Global Nuclear Concepts
+Ep 311: Chris Gadomski - Lead Analyst, Nuclear, Bloomberg New Energy Finance
+Ep 312: Isabelle Boemeke - Nuclear Influencer, Isodope
+Ep 313: Esam Hussein - Dean, Engineering and Applied Sciences, University of Regina
+Ep 314: Richard Meserve - Former Chairman, Nuclear Regulatory Commission
+Ep 315: George Verberg - Former Chairman, Urenco
+Ep 316: Arun Khuttan, Sophie Zienkiewicz, Neil Calder - Net Zero Needs Nuclear COP26 Team
+Ep 317: Ben Levitt - Director of Research and Development, Zap Energy
+Ep 318: Michel Berthélemy - Nuclear Energy Analyst, Nuclear Energy Agency (OECD)
+Ep 319: Andrzej Strupczewski - Chairman of Nuclear Safety Commission, National Center for Nuclear Research
+Ep 320: Stephen Chanock - Director, Division of Cancer Epidemiology & Genetics, National Cancer Institute
+Ep 321: Lindsay Morton - Deputy Chief Senior Investigator, National Cancer Institute
+Ep 322: Jason Crawford - Author, Roots of Progress
+Ep 323: Fiona Reilly - Managing Director, FiRE Energy
+Ep 324: Callum Thomas - Chief Executive Officer, Thomas Thor Associates
+Ep 325: Jeremy Gordon - Director, Fluent in Energy
+Ep 326: Paul Nevitt - Director of Science and Technology, National Nuclear Laboratory
+Ep 327: Jay Wileman - President & Chief Executive Officer, GE Hitachi Nuclear Energy
+Ep 328: Allan Carson - CORDEL Project Manager, World Nuclear Association
+Ep 329: Austin Lo - Research and Test Reactors Physics Group, Oak Ridge National Laboratory
+Ep 330: Mark Nelson - Managing Director, Radiant Energy Fund
+Ep 331: Laura Leay - Science Writer
+Ep 332: Adrian Bull - Chair in Nuclear Energy and Society, The University of Manchester
+Ep 333: Robert Hargraves - Co-Founder, ThorCon
+Ep 334: Lonnie Stephenson - President, International Brotherhood of Electrical Workers
+Ep 335: Ian Hore-Lacy - Senior Advisor, World Nuclear Association
+Ep 336: Matt Yglesias - Author, Slow Boring
+Ep 337: Cesare Frepoli - President, FPoli Solutions
+Ep 338: Robin Manley - Vice President, New Nuclear Development, Ontario Power Generation
+Ep 339: Andy Prendergast - National Secretary , GMB
+Ep 340: Emmet Penney - Host, Nuclear Barbarians
+Ep 341- WNE 2021: Introduction
+Ep 342: Sylvie Bermann - President, World Nuclear Exhibition
+Ep 343: Rory O'Sullivan - CEO, North America, Moltex Energy
+Ep 344: Madeleine Archer - Sustainability Lead, Sellafield Ltd.
+Ep 345: Kamen Kraev - Secretary General, NucNet
+Ep 346: Thomas Branche - Vice President, Engineering, Assystem
+Ep 347: Jean-Michel Hoorelbeke - Senior Advisor for Foresight and Strategy, Andra
+Ep 348: Jeff Chamberlin - Associate Assistant Deputy Administrator, U.S. National Nuclear Security Administration
+Ep 349: Thomas Jam Pedersen - Co-founder, Copenhagen Atomics
+Ep 350: Scott Bailey - Vice President of Supply Chain, NuScale Power
+Ep 351: Jonathan Hackett - Managing Director, Co-Head of Energy Transition & Head of Sustainable Finance, BMO Financial Group
+Ep 352: David Frum - Staff Writer, The Atlantic
+Ep 353: Ed Calabrese - Toxicologist, University of Massachusetts, Amherst
+Ep 354: Katie Silver - Regional Project Director, Reuters Events
+Ep 355: Jake DeWitte - Co-Founder & CEO, Oklo
+Ep 356: His Excellency Mohamed Al Hammadi - Managing Director and Chief Executive Officer, Emirates Nuclear Energy Corporation
+Ep 357: Craig Lester - Director of Strategic Development, DBD International
+Ep 358: Chris Keefer - Host, Decouple Podcast
+Ep 359: Brett Plummer - Chief Nuclear Officer, NB Power
+Ep 360: Jim Howe - Vice President, Government Relations, Centrus Energy Corp
+Ep 361: Ian Grant - Principal, Ian Grant Consulting
+Ep 362: Dominique Minière - Executive VP, International and Domestic New Nuclear Development, Ontario Power Generation
+Ep 363: Philip Johnson - Vice President, Fuel Cycle, UxC
+Ep 364: Congressman Byron Donalds - Representative for Florida's 19th Congressional District, House of Representatives
+Ep 365: David Stearns - Nuclear Financing Partner
+Ep 366: Edgardo Sepulveda - Economist
+Ep 367: Alex Kaufman - Senior Reporter, Huffington Post
+Ep 368: Maria Korsnick - President and CEO, Nuclear Energy Institute
+Ep 369: Kate Fowler - North American Nuclear Center of Excellence Leader, Marsh
+Ep 370: Chris Keefer - Host, Decouple Podcast
+Ep 371: Derek Sutherland - Co-Founder and CEO, CTFusion
+Ep 372: Greg Piefer - Founder and CEO, SHINE Technologies
+Ep 373: Maria Kolodnytska - Supply Chain Inspection Manager, EDF (UK)
+Ep 374: Mikal Bøe - Founder and CEO, CORE POWER
+Ep 375: Heather Hoff - Co-Founder, Mothers for Nuclear
+Ep 376: Bob Gallucci - Fmr. U.S. Assistant Sec. of State for Political-Military Affairs, Dept. of State
+Ep 377: Charles Oppenheimer - Founder, The Oppenheimer Project
+Ep 378: Tammy Ma - Lead, Inertial Fusion Initiative, Lawrence Livermore National Lab
+Ep 379: Jim Glasgow - Fmr. Senior Attorney, U.S. DOE, NRC, AEC
+Ep 380: Grace Stanke - Miss America, 2023
+Ep 381: Rusty Towell - Director of NEXT Lab, Abilene Christian University
+Ep 382: Adam Stein - Director of Nuclear Energy Innovation, The Breakthrough Institute
+Ep 383: Boris Schucht - CEO, Urenco Global
+Ep 384: John Gorman - President and CEO , Canadian Nuclear Association
+Ep 385: Craig Stover - Senior Program Manager, Advanced Nuclear, Electric Power Research Institute
+Ep 386: Stefano Buono - Founder and CEO, newcleo
+Ep 387: Marco Visscher - Author, "Why We Need Not Fear Nuclear Energy"
+Ep 388: Ken Adelman - Fmr. U.S. Ambassador to the U.N. & Arms Control Director
+Ep 389: Bret van den Akker - Director of Fuel Cycle Innovation, Ultra Safe Nuclear
+Ep 390: Yasir Arafat - Chief Designer and Project Lead, Idaho National Laboratory
+Ep 391: Wayne Solomon - Vice President, Magnetic Fusion Energy, General Atomics
+Ep 392: Julianne Antrobus - Global Head of Nuclear, PA Consulting
+Ep 393: Joe McBrearty - President and CEO, Canadian Nuclear Laboratories
+Ep 394: Roger Blomquist - Principal Nuclear Engineer, Argonne National Laboratory
+Ep 395: Brent Freeze & Lex Huntsman - Solid Atomic
+Ep 396: Oliver Stone & Joshua Goldstein - Filmmakers, Nuclear Now
+Ep 397: Brian Vangor - Author, Indian Point Nuclear Power Plant
+Ep 398: Tim Echols - Commissioner, Georgia Public Service Commission
+Ep 399: Bhavya Lal - Associate Admin for Technology, Policy & Strategy, NASA
+Ep 400: Josh Mesner - Director of Operations, Last Energy
+Ep 401: Nils Diaz - Fmr. Chairman, Nuclear Regulatory Commission
+Ep 402: Kevin Cramer - Senator for North Dakota, U.S. Senate
+Ep 403: Michl Binderbauer - CEO, TAE Technologies
+Ep 404: Anna Erickson - Professor, Georgia Institute of Technology
+Ep 405: Sharmistha Mukhopadhyay - Radiological Science & Engineering Lab Manager, Georgia Institute of Technology
+Ep 406: Dan Kotlyar - Associate Professor, Georgia Institute of Technology
+Ep 407: Nolan Hertel - Professor Emeritus, Georgia Institute of Technology
+Ep 408: Ryan Pickering - Independent Researcher, University of California, Berkeley
+Ep 409: Emma McDaid - Head of Project Management, Magnox Ltd
+Ep 410: Nick O'Hara - Writer and Producer, Gridlocked
+Ep 411: Mike Rencheck - President and CEO, Bruce Power
+Ep 412: Piyush Sabharwall - Distinguished Scientist and Dept. Manager, Idaho National Laboratory
+Ep 413: Emma Wong - Senior Nuclear Technology and Innovation Advisor, OECD Nuclear Energy Agency
+Ep 414: Karl Hausker - Senior Fellow, World Resources Institute
+Ep 415: Ted Nordhaus - Founder and Executive Director, The Breakthrough Institute
+Ep 416: Armando Nava-Dominguez - Technical Lead, SCWR Gen IV Project, Canadian Nuclear Laboratories
+Ep 417: Igor Pioro - Professor, Ontario Tech University
+Ep 418: Juan Pedro van Hasselt - CEO, Pacific Andean Nuclear Power Services
+Ep 419: Eli Dourado - Senior Research Fellow, The Center for Growth and Opportunity
+Ep 420: Charles Oppenheimer - Founder, Oppenheimer Project
+Ep 424: Will Shackel - Founder, Nuclear for Australia
+Ep 425: Carlo Wolters - CEO, Elektriciteits Produktiemaatschappij Zuid-Nederland
+Ep 426: John Ahlberg - Founder and CSO, Kärnfull Next
+Ep 427: Andrew Storer - CEO, Nuclear AMRC
+Ep 428: Sander De Groot - Co-Founder and Technical Lead, Thorizon
+Ep 429: Claire Schaffnit-Chatterjee - Head of Operations, Dual Fluid
+Ep 430: Cyrille Molina - Founder and President, OAKRIDGE SAS
+Ep 431: Grace Stanke - Miss America 2023 and Nuclear Engineer
+Ep 432: Myrto Tripathi - President and Founder, Voices of Nuclear
+Ep 433: Princess Mthombeni - Communications Specialist, The South African Nuclear Energy Corporation
+Ep 434: James Chesnut - Senior Vice President, Nuclear Operations, Day & Zimmermann
+Ep 435: George Borovas - Head of Nuclear and Partner, Hunton Andrews Kurth LLP
+Ep 436: Richard Kidd - Former Deputy Assistant Secretary of Defense for Environment and Energy, United States Department of Defense
+Ep 437: Doug Sandridge - Executive Director, Oil & Gas Executives for Nuclear
+Ep 438: Bahman Zohuri - Professor, Golden Gate University
+Ep 439: Josh Snowhorn - Founder and CEO, Quantum Loophole
+Ep 440: Michael Crabb & John Chaplin - Nuclear Nexus: Data Centers, Episode 1
+Ep 441: Shannon Bragg-Sitton & Bill Kleyman - Nuclear Nexus: Data Centers, Episode 2
+Ep 442: Robert Boswall & Michael Crabb - Nuclear Nexus: Data Centers, Episode 3
+Ep 443: Alan Howard - Nuclear Nexus: Data Centers, Episode 4
+Ep 444: Todd Abrajano - President & CEO, United States Nuclear Industry Council
+Ep 445: Kyle Hill - Science Communicator & Founder, [THE FACILITY]
+Ep 446: Vince Zabielski - Partner, Pillsbury Winthrop Shaw Pittman LLP
+Ep 447: Rachael Zisk - Lead Reporter, Ignition
+Ep 448: Trey Lauderdale - Founder and CEO, Atomic Canyon
+Ep 449: Ieuan Williams - Labour Party Candidate, Ynys Môn
+Ep 450: Bill Kennedy - Vice President, Environmental & Waste Mgmt. Issues, National Council on Radiation Protection
+Ep 451: Stefano Buono - Founder and CEO, newcleo
+Ep 452: Juliann Edwards - Chair, United States Women in Nuclear
+Ep 453: Reed Clay - President, Texas Nuclear Alliance
+Ep 454: Shaheen Dewji - Assistant Professor, Nuclear & Radiological Engineering, Georgia Institute of Technology
+Ep 455: Zach Peña - CEO, Empirix Partners
+Ep 456: Paul Wilson - Chair, Dept. of Nuclear Engineering & Engineering Physics, University of Wisconsin
+Ep 457: Sarah Stevenson - Lieutenant, Physicist, & Nuclear Engineer, United States Air Force
